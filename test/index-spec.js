@@ -1,3 +1,5 @@
+'use strict';
+
 browser.ignoreSynchronization = true;
 
 describe('Index page', () => {
